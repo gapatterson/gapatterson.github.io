@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "Whatsit_Time_Shuttered",
-  "description": "a tool for me to learn javascript",
+  "description": "a tool for me to learn basic web dev",
   "icons": {
     "60": "/assets/firefox_app_60x60.png",
     "128": "/assets/firefox_app_128x128.png",
